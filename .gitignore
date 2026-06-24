@@ -1,0 +1,28 @@
+# Ignore dataset repository
+predicting-human-gaze-beyond-pixels/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+gaze2text/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+*.csv
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
