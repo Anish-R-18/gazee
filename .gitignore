@@ -16,9 +16,6 @@ gaze2text/
 # Jupyter
 .ipynb_checkpoints/
 
-# Outputs
-*.csv
-*.log
 
 # OS files
 .DS_Store
@@ -26,3 +23,5 @@ Thumbs.db
 
 # VS Code
 .vscode/
+# Ignore backup of nested git data when converting submodule
+stats/.git.backup/
